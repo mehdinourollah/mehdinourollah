@@ -13,7 +13,7 @@ I'm Mehdi, also known as `meiki` on some places on the Internet.
 #### Currently I'm...
 
 - 🕸 working on the new face of Tegsoft platform based on vuejs,
-- 🕸 working on the mobile solution of Tegsoft platform based on react-native,
+- 📱 working on the mobile solution of Tegsoft platform based on react-native,
 - 👨‍💻 learning more about iOS development on my spare time,
 - 🛠 diving deeper into language design and compilers.
 
