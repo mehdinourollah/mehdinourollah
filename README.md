@@ -19,4 +19,4 @@ I'm Mehdi, also known as `meiki` on some places on the Internet.
 
 #### you can Reach me at:
 
-[my Github Page](https://mehdinourollah.github.io) or [email](to:mehdinourollah@gmail.com)
+[my Github Page](https://mehdinourollah.github.io) or [email](to:mehdinourollah@gmail.com) <MAILTO:mehdinourollah@gmail.com>
