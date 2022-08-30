@@ -7,15 +7,8 @@ I'm Mehdi, also known as `meiki` on some places on the Internet.
 ```diff
 - I work as a developer,(mobile,web,system,...) in @laroza-dev for fun.
 - I studied Computer Science.
-+ I work as an R&D Specialist at @Tegsoft full time.
++ I work as Senior Mobile Developer at @orangery full time.
 ```
-
-#### Currently I'm...
-
-- 🕸 working on the new face of Tegsoft platform based on vuejs,
-- 📱 working on the mobile solution of Tegsoft platform based on react-native,
-- 👨‍💻 learning more about iOS development on my spare time,
-- 🛠 diving deeper into language design and compilers.
 
 #### you can Reach me at:
 
