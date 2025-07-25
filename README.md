@@ -1,22 +1,37 @@
+# Hi, I'm Mehdi Nourollah 👋
 
-### Hi there 👋
+💻 **Software Engineer** passionate about building impactful digital experiences.
 
-I'm Mehdi, also known as `meiki` on some places on the Internet.
+---
 
-#### A bit about myself
-```diff
-- I worked as a developer,(mobile,web,system,...) in @laroza-dev for fun.
-- I studied Computer Science.
-- I worked as Senior Mobile Developer at @orangery full time.
-- I worked as a Senior Software developer at @axxessio gmbh
-+ I work as a Senior Software developer at @taxy.io gmbh
+## 🚀 About Me
 
-```
+I love computers and enjoy solving complex problems with code. Whether it's front-end interfaces, scalable backends, or seamless DevOps, I thrive on turning ideas into reality.
 
-#### you can Reach me at:
+---
 
-[🕸 Github Page](https://mehdinourollah.github.io)
+## 🛠️ Skills & Technologies
 
- or
- 
-[📭 Email](<mailto:mehdinourollah@gmail.com>)
+- **Languages:** TypeScript, Python
+- **Frameworks:** React, React Native
+- **DevOps:** CI/CD, Automation, Cloud Services
+
+---
+
+## 🌟 Featured Project
+
+**Medusa-based E-Commerce**  
+I’ve worked extensively on e-commerce solutions using [Medusa](https://medusajs.com/), blending robust architecture with flexible customizations.
+
+---
+
+## 🌐 Connect With Me
+
+- [LinkedIn](https://www.linkedin.com/in/mehdi-nourollah?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+- [Website/Blog](https://mehdinourollah.com)
+
+---
+
+<!--
+**mehdinourollah/mehdinourollah** is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
+-->
